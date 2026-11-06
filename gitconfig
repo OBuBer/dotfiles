@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = oskar.burmann@outlook.com
+	name = Oskar Burmann
